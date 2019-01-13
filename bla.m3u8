@@ -3,7 +3,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://zee5vodnd.akamaized.net/serve.key?hdntl=exp=1547500655~acl=/*~data=hdntl~hmac=8e7a91f576183bfdf994bea75f274910e72d99e9fd529c711f71c61f0d096897&aka_me_session_id=AAAAAAAAAABv%2fDxcAAAAAJ50L2GhwnIl5V2tk5MTZHdMw1sMrhbIDkAaNT9UepBlKy2gfWf0cbgLV942bK54uVpVZ7zYAQk3"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/ghoshben/sorting/master/serve.key"
 #EXTINF:6.016000,
 https://zee5vod.akamaized.net/drm1/PRIORITY1080/HINDI_MOVIES/Namaste_England_hi.mp4/audio/aac/en/segment-0.aac
 #EXTINF:6.016000,
